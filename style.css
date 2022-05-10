@@ -41,13 +41,17 @@ button {
 	color: #fff;
 }
 
+.nav__items a:hover {
+	color: #c0c0c0;
+}
+
 .nav__items button {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 20px;
 	color: #000;
 	letter-spacing: 0.4px;
-	padding: 9px 20px 13px 20px;
+	padding: 9px 20px;
 	border-radius: 14px;
 	border: none;
 }
@@ -652,6 +656,7 @@ hr {
 	border-radius: 12px;
 	width: 458px;
 	height: 52px;
+	padding: 0 10px;
 }
 
 .footer__mid__input button {
@@ -675,6 +680,17 @@ hr {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 20px;
+	color: #c0c0c0;
+}
+
+.footer__links a {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	color: #ffffff;
+}
+
+.footer__links a:hover {
 	color: #c0c0c0;
 }
 
